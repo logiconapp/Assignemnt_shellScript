@@ -1,0 +1,12 @@
+Create a directory with your name, create a read-only file in your home directory and add the text below in your file:
+This is my first file.
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+6
+7
+8
+9
+10
